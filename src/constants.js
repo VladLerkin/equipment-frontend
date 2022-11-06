@@ -1,1 +1,1 @@
-export const SERVER_URL='http://equipmentbackend.herokuapp.com/';
+export const SERVER_URL='https://equipmentbackend.herokuapp.com/';
